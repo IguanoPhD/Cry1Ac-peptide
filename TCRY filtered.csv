@@ -1,0 +1,43 @@
+"";"accession_no";"category";"pepseq";"PN";"EUPC";"EUSC";"ESC";"PTS";"PC"
+"1";"P14733";"T";"AGQTVTVWAANAGVTASPPTDLIWK";"Lamin-B1 OS=Mus musculus OX=10090 GN=Lmnb1 PE=1 SV=3";28;35;67;0,00041;0,543
+"2";"Q03265";"T";"AVDSLVPIGR";"ATP synthase subunit alpha, mitochondrial OS=Mus musculus OX=10090 GN=Atp5f1a PE=1 SV=1";29;42;95;0,000582;0,561
+"3";"P62908";"T";"AELNEFLTR";"40S ribosomal protein S3 OS=Mus musculus OX=10090 GN=Rps3 PE=1 SV=1";17;19;30;0,000184;0,551
+"4";"Q8BMS1";"T";"ADMVIEAVFEDLGVK";"Trifunctional enzyme subunit alpha, mitochondrial OS=Mus musculus OX=10090 GN=Hadha PE=1 SV=1";26;40;79;0,000484;0,429
+"5";"P27661";"T";"AEILELAGNAAR";"Histone H2AX OS=Mus musculus OX=10090 GN=H2ax PE=1 SV=2";32;41;150;0,000918;0,58
+"6";"Q9QY81";"T";"AIIHVSDIQELYVR";"Nuclear pore membrane glycoprotein 210 OS=Mus musculus OX=10090 GN=Nup210 PE=1 SV=2";26;30;40;0,000245;0,183
+"7";"Q3U7R1";"T";"ALTLGALTLPLAR";"Extended synaptotagmin-1 OS=Mus musculus OX=10090 GN=Esyt1 PE=1 SV=2";19;23;50;0,000306;0,29
+"8";"P10126";"T";"DGSASGTTLLEALDCILPPTRPTDKPL";"Elongation factor 1-alpha 1 OS=Mus musculus OX=10090 GN=Eef1a1 PE=1 SV=3";22;35;77;0,000471;0,561
+"9";"Q9CZU6";"T";"AALPSHVVTMLDNFPTNLHPMSQLSAAITALNSESNFAR";"Citrate synthase, mitochondrial OS=Mus musculus OX=10090 GN=Cs PE=1 SV=1";17;17;24;0,000147;0,44
+"10";"Q9QZQ8-2";"T";"AASADSTTEGTPTDGFTVLSTK";"Isoform 1 of Core histone macro-H2A.1 OS=Mus musculus OX=10090 GN=Macroh2a1";20;32;58;0,000355;0,561
+"11";"O89053,Q3U1N0,Q3U232";"T";"ADQCYEDVR";"Coronin-1A OS=Mus musculus OX=10090 GN=Coro1a PE=1 SV=5";19;25;47;0,000288;0,501
+"12";"Q99KI0";"T";"CTTDHISAAGPWLK";"Aconitate hydratase, mitochondrial OS=Mus musculus OX=10090 GN=Aco2 PE=1 SV=1";22;26;62;0,00038;0,376
+"13";"Q99JY3";"T";"ASGAEKEEQKMQLLTLVQSMVR";"GTPase IMAP family member 4 OS=Mus musculus OX=10090 GN=Gimap4 PE=1 SV=2";18;26;33;0,000202;0,643
+"14";"Q9D6Z1";"T";"AQLGLGHSYSR";"Nucleolar protein 56 OS=Mus musculus OX=10090 GN=Nop56 PE=1 SV=2";20;27;47;0,000288;0,431
+"15";"Q8VDD5";"T";"AGVLAHLEEER";"Myosin-9 OS=Mus musculus OX=10090 GN=Myh9 PE=1 SV=4";114;168;262;0,0016;0,568
+"16";"Q8BJS4,Q8BJS4-2";"T";"ADVESQFPDWIR";"SUN domain-containing protein 2 OS=Mus musculus OX=10090 GN=Sun2 PE=1 SV=3";18;23;41;0,000251;0,346
+"17";"Q6ZQK2,Q9JKF1";"T";"ALQSLALGLR";"Ras GTPase-activating-like protein IQGAP1 OS=Mus musculus OX=10090 GN=Iqgap1 PE=1 SV=2";28;37;59;0,000361;0,239
+"18";"Q7TPV4";"T";"AEPATPAEAAQSDR";"Myb-binding protein 1A OS=Mus musculus OX=10090 GN=Mybbp1a PE=1 SV=2";18;22;51;0,000312;0,175
+"19";"Q9JHU4";"T";"ALGEYLER";"Cytoplasmic dynein 1 heavy chain 1 OS=Mus musculus OX=10090 GN=Dync1h1 PE=1 SV=2";18;22;25;0,000153;0,0536
+"20";"A0A1S6GWJ8";"T";"ADILEDKDGK";"Uncharacterized protein OS=Mus musculus OX=10090 GN=Hnrnpm PE=2 SV=1";18;25;53;0,000325;0,287
+"21";"P63038";"T";"AAVEEGIVLGGGCALLR";"60 kDa heat shock protein, mitochondrial OS=Mus musculus OX=10090 GN=Hspd1 PE=1 SV=1";29;38;63;0,000386;0,628
+"22";"P08113,Q91V38";"T";"DISTNYYASQK";"Endoplasmin OS=Mus musculus OX=10090 GN=Hsp90b1 PE=1 SV=2";20;23;43;0,000263;0,296
+"23";"Q922U2";"T";"AQYEDIANR";"Keratin, type II cytoskeletal 5 OS=Mus musculus OX=10090 GN=Krt5 PE=1 SV=1";25;34;81;0,000496;0,276
+"24";"P56480";"T";"AHGGYSVFAGVGER";"ATP synthase subunit beta, mitochondrial OS=Mus musculus OX=10090 GN=Atp5f1b PE=1 SV=2";30;49;108;0,000661;0,72
+"25";"A0A0A0MQF6";"T";"GAAQNIIPASTGAAK";"Glyceraldehyde-3-phosphate dehydrogenase OS=Mus musculus OX=10090 GN=Gapdh PE=1 SV=1";24;47;104;0,000637;0,585
+"26";"Q8C3J5";"T";"AFFTEEYSR";"Dedicator of cytokinesis protein 2 OS=Mus musculus OX=10090 GN=Dock2 PE=1 SV=3";22;23;25;0,000153;0,127
+"27";"E9PWQ3";"T";"ALEFVAR";"Collagen, type VI, alpha 3 OS=Mus musculus OX=10090 GN=Col6a3 PE=1 SV=2";30;40;54;0,000331;0,146
+"28";"P62806";"T";"AVTYTEHAK";"Histone H4 OS=Mus musculus OX=10090 GN=H4f16 PE=1 SV=2";31;47;185;0,00113;0,612
+"29";"P52480";"T";"AADVHEVR";"Pyruvate kinase PKM OS=Mus musculus OX=10090 GN=Pkm PE=1 SV=4";22;29;62;0,00038;0,476
+"30";"P15864";"T";"AAAGYDVEKNNSR";"Histone H1.2 OS=Mus musculus OX=10090 GN=H1-2 PE=1 SV=2";24;31;63;0,000386;0,373
+"31";"P05213";"T";"AFVHWYVGEGMEEGEFSEAR";"Tubulin alpha-1B chain OS=Mus musculus OX=10090 GN=Tuba1b PE=1 SV=2";18;32;69;0,000422;0,576
+"32";"B9EKP5";"T";"AFGPGLQGGNAGSPAR";"Filamin, alpha OS=Mus musculus OX=10090 GN=Flna PE=2 SV=1";22;22;31;0,00019;0,124
+"33";"P51881,Q545A2";"T";"AAYFGIYDTAK";"ADP/ATP translocase 2 OS=Mus musculus OX=10090 GN=Slc25a5 PE=1 SV=3";18;20;43;0,000263;0,53
+"34";"Q99LC5";"T";"AAVDAGFVPNDMQVGQTGK";"Electron transfer flavoprotein subunit alpha, mitochondrial OS=Mus musculus OX=10090 GN=Etfa PE=1 SV=2";17;24;29;0,000178;0,742
+"35";"P47738,Q3TVM2,Q3U9J7,Q544B1";"T";"AAFQLGSPWR";"Aldehyde dehydrogenase, mitochondrial OS=Mus musculus OX=10090 GN=Aldh2 PE=1 SV=1";19;23;61;0,000373;0,447
+"36";"P11499";"T";"ADLINNLGTIAK";"Heat shock protein HSP 90-beta OS=Mus musculus OX=10090 GN=Hsp90ab1 PE=1 SV=3";17;19;45;0,000276;0,28
+"37";"Q3UAF7";"T";"AGFAGDDAPR";"Uncharacterized protein OS=Mus musculus OX=10090 GN=Actb PE=2 SV=1";66;137;420;0,00257;0,88
+"38";"P38647";"T";"AMQDAEVSKSDIGEVILVGGMTR";"Stress-70 protein, mitochondrial OS=Mus musculus OX=10090 GN=Hspa9 PE=1 SV=3";21;29;63;0,000386;0,373
+"39";"Q3TZJ3";"T";"AGDTHLGGEDFDNR";"Uncharacterized protein OS=Mus musculus OX=10090 GN=Hspa8 PE=2 SV=1";30;44;66;0,000404;0,526
+"40";"Q3TVV6,Q8C290,Q8VEK3,Q8VEK3-2";"T";"ANFETDEVELSYAK";"Uncharacterized protein OS=Mus musculus OX=10090 GN=Hnrnpu PE=2 SV=1";20;25;38;0,000233;0,276
+"41";"Q3V3R1";"T";"AEIDLVCELAK";"Monofunctional C1-tetrahydrofolate synthase, mitochondrial OS=Mus musculus OX=10090 GN=Mthfd1l PE=1 SV=2";19;20;25;0,000153;0,231
+"42";"P68372";"T";"ALTVPELTQQMFDAK";"Tubulin beta-4B chain OS=Mus musculus OX=10090 GN=Tubb4b PE=1 SV=1";20;27;60;0,000367;0,557
